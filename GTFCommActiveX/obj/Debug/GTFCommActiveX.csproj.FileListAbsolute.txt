@@ -1,0 +1,17 @@
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.csprojResolveAssemblyReference.cache
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.GTF_COS.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.csproj.GenerateResource.Cache
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\bin\Debug\GTFCommActiveX.dll
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\bin\Debug\GTFCommActiveX.pdb
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\bin\Debug\zxing.dll
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\bin\Debug\zxing.xml
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.dll
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.pdb
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.Properties.ResourceResidence.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.Properties.ResourceLandingPort.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.Properties.ResourcePassportEtc.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.Properties.Resources.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.Properties.Resourcesen-US.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.Properties.Resourcesko-KR.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.Properties.Resourceszh-CN.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Debug\GTFCommActiveX.Properties.ResourceString.resources

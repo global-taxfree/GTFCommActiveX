@@ -1,0 +1,17 @@
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\bin\Release\GTFCommActiveX.dll
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\bin\Release\GTFCommActiveX.pdb
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\bin\Release\zxing.dll
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\bin\Release\zxing.xml
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.csprojResolveAssemblyReference.cache
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.GTF_COS.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.Properties.ResourceResidence.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.Properties.ResourceLandingPort.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.Properties.ResourcePassportEtc.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.Properties.Resources.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.Properties.Resourcesen-US.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.Properties.Resourcesko-KR.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.Properties.Resourceszh-CN.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.Properties.ResourceString.resources
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.csproj.GenerateResource.Cache
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.dll
+D:\Work\Study\ActiveX\GTFCommActiveX\GTFCommActiveX\GTFCommActiveX\obj\Release\GTFCommActiveX.pdb

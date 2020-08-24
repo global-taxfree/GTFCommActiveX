@@ -1,0 +1,77 @@
+﻿<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+	<title>GTF Passport Info.</title>
+</head>
+
+<script event="getPassportInfo(passport, retcode)" for="GTFCommActiveX">
+
+	////////////////////////////////////
+	// Parameter 설명
+	////////////////////////////////////
+	// passport : 여권정보
+	// retcode  : 리턴코드
+	//            0 : 정상
+	//           -1 : 포트오픈 실패
+	//           -2 : 여권정보 스캔 오류
+
+	if(retcode == 0){
+		alert(passport);
+	}
+</script>
+
+<script language="javascript" type="text/javascript">
+	function PrintTicket(){
+	
+		var docid = "EN|01|01|20051502020140000225";
+    var retailer = "소속세무서|납세지|판매지성명 혹은 상호판매지성명 혹은 상호판매지성명 혹은 상호|서울시 중구 을지로1가 188-3 프레지던트호텔 1007";
+    var tourist = "여권 등의 종류|여권번호|여권성명|국적|생년월일|체류자격|상륙지|상륙년월일";
+    var goods = "20141022|002";
+    goods += "|01|003";
+    goods += "|を超えない範#1|0000010000|00020|0000200000";
+    goods += "|を超えない範#2|0000010000|00020|0000200000";
+    goods += "|を超えない範#3|0000010000|00020|0000200000|0000020000|0000220000|0000000100";
+    goods += "|02|001|を超えない範|0010000000|00001|0010000000|0001000000|0011000000|0000000200";
+    goods += "|0011220000";
+
+    var adsinfo = "00|00|00|00";
+		
+		document.getElementById("GTFCommActiveX").JPNPrintTicket(docid, retailer, tourist, goods, adsinfo);
+		
+		return;
+	}	
+	
+	function GetPassportInfo(){
+		alert(document.getElementById("GTFCommActiveX").residence_name);
+	/*
+		passport_name   
+		nationality_code
+		gender_code     
+		passport_no     
+		birthday        
+		expiry_date     
+		entry_port      
+		residence_name  
+		entry_date      
+*/
+	}
+	
+</script>
+
+<body>
+	<form name="form" method="post">
+		<input type="button" value="Scan Passport" onclick="GTFCommActiveX.PassScan();" /> 
+		<input type="button" value="Print" onclick="javascript:PrintTicket()">
+		<input type="button" value="Get Passport Info" onclick="javascript:GetPassportInfo()">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tr>
+							<td>
+								<object id="GTFCommActiveX" width="980" height="150" classid="clsid:3E837B10-CCB9-4611-8D8C-A6C2DF3CC584">
+									<param name="nTimeOut" value="20" />
+							</object>
+							</td>
+	         	</tr>
+				</table>
+	</form>
+</body>
+</html>
